@@ -1,7 +1,7 @@
 # ARG - ALL REVIEW GENERATOR
 
 ARG is an open-source site for generating point-based (topic) real reviews for educational purposes only
-
+project abandoned for now
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install all the necessary libraries.
